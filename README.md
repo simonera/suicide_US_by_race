@@ -8,6 +8,7 @@ This repo includes data on suicide trends in the United States by race. I used t
 - `plot_rate.png`: Suicide rate in the United States by race, 1999-2020 (see below)
 - `plot_trend.png`: Trend in suicide rate in the United States by race, 1999-2020 (see below) 
 
+
 ![Suicides in the United States by race, 1999-2020](plot_total.png)
 ![Suicide rate in the United States by race, 1999-2020](plot_rate.png)
 ![Trend in suicide rate in the United States by race, 1999-2020, 1999-2020](plot_trend.png)
