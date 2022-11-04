@@ -30,9 +30,10 @@ head(mytrend)
 plot_trend <- ggplot(data = mytrend, aes(x = Year, y = `Age Adjusted Rate`)) +
   geom_line(aes(linetype = Race, color = Race)) +
   labs(title = "Trend in suicide rate in the United States by race, 1999-2020", 
-     caption = "Suicide increased remarkably between 1999 and 2018. Then, the overall rate declined.
-     This decline is concentrated among white Americans. There was a significant increase among Native Americans and Black Americans.")
-  
+     subtitle = "Suicide increased remarkably between 1999 and 2018. Then, the overall rate declined.
+This decline is concentrated among white Americans. There was a significant increase among Native Americans and Black Americans.",
+     caption = "Sources: CDC")
+
 plot_trend
 
 
