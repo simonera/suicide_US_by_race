@@ -1,0 +1,89 @@
+Race,Year,Deaths,Population,Crude Rate,Age Adjusted Rate
+American Indian or Alaska Native,1999,291,2832761,10.3,10.1
+American Indian or Alaska Native,2000,297,2984150,10,9.8
+American Indian or Alaska Native,2001,321,3097333,10.4,10.5
+American Indian or Alaska Native,2002,324,3202471,10.1,10
+American Indian or Alaska Native,2003,322,3312011,9.7,9.5
+American Indian or Alaska Native,2004,404,3429452,11.8,11.5
+American Indian or Alaska Native,2005,392,3554356,11,10.7
+American Indian or Alaska Native,2006,395,3687683,10.7,10.4
+American Indian or Alaska Native,2007,392,3829898,10.2,10.1
+American Indian or Alaska Native,2008,409,3983929,10.3,10.1
+American Indian or Alaska Native,2009,429,4141215,10.4,10
+American Indian or Alaska Native,2010,469,4263538,11,10.8
+American Indian or Alaska Native,2011,459,4347413,10.6,10.6
+American Indian or Alaska Native,2012,485,4398436,11,10.8
+American Indian or Alaska Native,2013,521,4457934,11.7,11.7
+American Indian or Alaska Native,2014,489,4518981,10.8,10.9
+American Indian or Alaska Native,2015,577,4577853,12.6,12.6
+American Indian or Alaska Native,2016,629,4630155,13.6,13.5
+American Indian or Alaska Native,2017,640,4689047,13.6,13.5
+American Indian or Alaska Native,2018,669,4739288,14.1,13.7
+American Indian or Alaska Native,2019,658,4785203,13.8,13.6
+American Indian or Alaska Native,2020,714,4899485,14.6,14.6
+Asian or Pacific Islander,1999,658,11346496,5.8,6
+Asian or Pacific Islander,2000,616,11757685,5.2,5.5
+Asian or Pacific Islander,2001,634,12429181,5.1,5.4
+Asian or Pacific Islander,2002,661,12953763,5.1,5.3
+Asian or Pacific Islander,2003,722,13461109,5.4,5.6
+Asian or Pacific Islander,2004,765,13967014,5.5,5.7
+Asian or Pacific Islander,2005,726,14494417,5,5.1
+Asian or Pacific Islander,2006,813,15029851,5.4,5.4
+Asian or Pacific Islander,2007,900,15559373,5.8,5.9
+Asian or Pacific Islander,2008,876,16094699,5.4,5.5
+Asian or Pacific Islander,2009,971,16609031,5.8,5.9
+Asian or Pacific Islander,2010,1061,16993326,6.2,6.2
+Asian or Pacific Islander,2011,1043,17471358,6,5.9
+Asian or Pacific Islander,2012,1152,18087959,6.4,6.3
+Asian or Pacific Islander,2013,1121,18630136,6,5.9
+Asian or Pacific Islander,2014,1188,19398214,6.1,6
+Asian or Pacific Islander,2015,1316,20102717,6.5,6.4
+Asian or Pacific Islander,2016,1402,20487524,6.8,6.7
+Asian or Pacific Islander,2017,1452,21210673,6.8,6.6
+Asian or Pacific Islander,2018,1546,21601064,7.2,6.9
+Asian or Pacific Islander,2019,1609,21814724,7.4,7.1
+Asian or Pacific Islander,2020,1569,22413737,7,6.8
+Black or African American,1999,1950,36173121,5.4,5.6
+Black or African American,2000,1962,36594309,5.4,5.5
+Black or African American,2001,1957,37249775,5.3,5.5
+Black or African American,2002,1939,37748424,5.1,5.3
+Black or African American,2003,1955,38209741,5.1,5.2
+Black or African American,2004,2019,38738798,5.2,5.4
+Black or African American,2005,1992,39280731,5.1,5.2
+Black or African American,2006,1954,39857107,4.9,5
+Black or African American,2007,1958,40451108,4.8,4.9
+Black or African American,2008,2106,41048959,5.1,5.2
+Black or African American,2009,2084,41632450,5,5.1
+Black or African American,2010,2144,42065334,5.1,5.2
+Black or African American,2011,2241,42678815,5.3,5.4
+Black or African American,2012,2357,43203092,5.5,5.6
+Black or African American,2013,2353,43696271,5.4,5.4
+Black or African American,2014,2426,44309394,5.5,5.5
+Black or African American,2015,2504,44863196,5.6,5.6
+Black or African American,2016,2770,45307020,6.1,6.1
+Black or African American,2017,3062,45883808,6.7,6.6
+Black or African American,2018,3254,46262846,7,7
+Black or African American,2019,3309,46599393,7.1,7.1
+Black or African American,2020,3541,47181245,7.5,7.4
+White,1999,26300,228687790,11.5,11.3
+White,2000,26475,230085762,11.5,11.3
+White,2001,27710,232192666,11.9,11.7
+White,2002,28731,233720535,12.3,12.1
+White,2003,28485,235125072,12.1,11.9
+White,2004,29251,236670034,12.4,12.1
+White,2005,29527,238187095,12.4,12.1
+White,2006,30138,239805271,12.6,12.2
+White,2007,31348,241390828,13,12.6
+White,2008,32644,242966379,13.4,13
+White,2009,33425,244388833,13.7,13.2
+White,2010,34690,245423340,14.1,13.6
+White,2011,35775,247094331,14.5,13.9
+White,2012,36606,248224553,14.7,14.1
+White,2013,37154,249344498,14.9,14.2
+White,2014,38723,250630467,15.5,14.7
+White,2015,39796,251875054,15.8,15.1
+White,2016,40164,252702814,15.9,15.2
+White,2017,42019,253935650,16.5,15.8
+White,2018,42875,254564236,16.8,16.1
+White,2019,41935,255040203,16.4,15.7
+White,2020,40155,254989656,15.7,15.1
